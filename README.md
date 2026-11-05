@@ -1,1 +1,1 @@
-# waf-kabu.github.io
+https://waf-kabu.github.io
